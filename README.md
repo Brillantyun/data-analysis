@@ -7,5 +7,6 @@ This project includes some code snippets for which the original sources are unkn
 ## 분만 데이터_n.ipynb(24.7.01 ~ 24.7.08)
 _1, 의미없는 회귀분석 결과
 _2, 다양한 그래프 추가, 데이터 형태 확인, 의미있는 회귀분석 결과
-_3, 교차 검증 추가
+_3, 교차 검증 추가, 의미없는 값 도출
+
 공공데이터 활용, 회귀 분석
